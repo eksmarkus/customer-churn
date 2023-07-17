@@ -30,3 +30,7 @@ The subscription fee can be paid on a monthly, yearly, or biennial basis. There 
 ## DNA Restrictions
 
 This project was executed as a final graduation work at Yandex Practicum Course on Data Science. Due to DNA Restrictions, the date is the property of the Project Owner and the online course organizer. The outcomes of this project are publicly available for read-only.
+
+# Report
+
+[customer_churn.ipynb](customer_churn.ipynb)

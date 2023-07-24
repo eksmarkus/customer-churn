@@ -27,9 +27,9 @@ Cloud services for data backups (OnlineBackup)
 Streaming TV and movies catalog (StreamingMovies)
 The subscription fee can be paid on a monthly, yearly, or biennial basis. There are various payment methods available, and customers have the option to choose paperless billing.
 
-## DNA Restrictions
+## NDA Restrictions
 
-This project was executed as a final graduation work at Yandex Practicum Course on Data Science. Due to DNA Restrictions, the date is the property of the Project Owner and the online course organizer. The outcomes of this project are publicly available for read-only.
+This project was executed as a final graduation work at Yandex Practicum Course on Data Science. Due to NDA Restrictions, the date is the property of the Project Owner and the online course organizer. The outcomes of this project are publicly available for read-only.
 
 # Report 
 
